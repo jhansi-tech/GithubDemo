@@ -1,0 +1,23 @@
+package testng;
+
+import org.testng.annotations.Test;
+
+public class NewTest {
+  @Test
+  public void Launch() {
+	  
+	  System.out.println("this code is for launch");
+  }
+  
+  @Test
+  public void login() {
+	  
+	  System.out.println("this code is for login");
+  }
+  
+  @Test
+  public void activity() {
+	  
+	  System.out.println("this code is for activity");
+  }
+}

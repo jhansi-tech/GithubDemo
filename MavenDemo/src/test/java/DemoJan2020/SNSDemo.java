@@ -1,0 +1,11 @@
+package DemoJan2020;
+
+public class SNSDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	 
+
+}

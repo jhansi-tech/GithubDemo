@@ -1,0 +1,7 @@
+package testNGdemo;
+
+public class testNGdemo1 {
+
+	
+	@Test  //annotation // No duplicate moehtods // @test atleast one is mandatory
+}
